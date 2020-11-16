@@ -1,6 +1,5 @@
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.Domain\bin\Debug\ED.STEM.Domain.dll
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.Domain\bin\Debug\ED.STEM.Domain.pdb
-C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.Domain\obj\Debug\ED.STEM.Domain.csprojAssemblyReference.cache
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.Domain\obj\Debug\ED.STEM.Domain.csproj.CoreCompileInputs.cache
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.Domain\obj\Debug\ED.STEM.Domain.dll
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.Domain\obj\Debug\ED.STEM.Domain.pdb

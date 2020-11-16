@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED.STEM.Domain", "ED.STEM.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED.STEM.UnitTests", "ED.STEM.UnitTests\ED.STEM.UnitTests.csproj", "{BFFC93D2-8D99-4830-A5A1-9D8A80C3A94A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED.STEM.WebApp", "ED.STEM.WebApp\ED.STEM.WebApp.csproj", "{EB553DB8-C57E-4D24-B61B-17639D307A90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BFFC93D2-8D99-4830-A5A1-9D8A80C3A94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFFC93D2-8D99-4830-A5A1-9D8A80C3A94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFFC93D2-8D99-4830-A5A1-9D8A80C3A94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB553DB8-C57E-4D24-B61B-17639D307A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB553DB8-C57E-4D24-B61B-17639D307A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB553DB8-C57E-4D24-B61B-17639D307A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB553DB8-C57E-4D24-B61B-17639D307A90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
