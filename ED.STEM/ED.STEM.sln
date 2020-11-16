@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED.STEM.DebugConsole", "ED.STEM.DebugConsole\ED.STEM.DebugConsole.csproj", "{3F519371-B42B-4CDD-A4CA-20773D6C5C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED.STEM.Domain", "ED.STEM.Domain\ED.STEM.Domain.csproj", "{EA8F2AD2-FB36-435B-9F15-04CC032030BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED.STEM.UnitTests", "ED.STEM.UnitTests\ED.STEM.UnitTests.csproj", "{BFFC93D2-8D99-4830-A5A1-9D8A80C3A94A}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F519371-B42B-4CDD-A4CA-20773D6C5C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F519371-B42B-4CDD-A4CA-20773D6C5C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F519371-B42B-4CDD-A4CA-20773D6C5C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F519371-B42B-4CDD-A4CA-20773D6C5C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8F2AD2-FB36-435B-9F15-04CC032030BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8F2AD2-FB36-435B-9F15-04CC032030BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8F2AD2-FB36-435B-9F15-04CC032030BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8F2AD2-FB36-435B-9F15-04CC032030BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFC93D2-8D99-4830-A5A1-9D8A80C3A94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFC93D2-8D99-4830-A5A1-9D8A80C3A94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFC93D2-8D99-4830-A5A1-9D8A80C3A94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFC93D2-8D99-4830-A5A1-9D8A80C3A94A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

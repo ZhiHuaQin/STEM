@@ -1,0 +1,7 @@
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\ED.STEM.DebugConsole.exe.config
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\ED.STEM.DebugConsole.exe
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\ED.STEM.DebugConsole.pdb
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\obj\Debug\ED.STEM.DebugConsole.csprojAssemblyReference.cache
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\obj\Debug\ED.STEM.DebugConsole.csproj.CoreCompileInputs.cache
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\obj\Debug\ED.STEM.DebugConsole.exe
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\obj\Debug\ED.STEM.DebugConsole.pdb
