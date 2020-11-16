@@ -59,6 +59,12 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ED.STEM.Domain\ED.STEM.Domain.csproj">
+      <Project>{ea8f2ad2-fb36-435b-9f15-04cc032030be}</Project>
+      <Name>ED.STEM.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

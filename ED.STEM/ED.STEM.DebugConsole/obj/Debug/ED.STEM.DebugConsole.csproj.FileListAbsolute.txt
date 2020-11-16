@@ -5,3 +5,11 @@ C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\obj\Debug\ED.STEM.DebugConsole
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\obj\Debug\ED.STEM.DebugConsole.csproj.CoreCompileInputs.cache
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\obj\Debug\ED.STEM.DebugConsole.exe
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\obj\Debug\ED.STEM.DebugConsole.pdb
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\ED.STEM.Domain.dll
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\EntityFramework.dll
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\ED.STEM.Domain.pdb
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\ED.STEM.Domain.dll.config
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\EntityFramework.xml
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.DebugConsole\obj\Debug\ED.STEM.DebugConsole.csproj.CopyComplete

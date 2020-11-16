@@ -12,3 +12,11 @@ C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\obj\Debug\ED.STEM.UnitTests.cspro
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\obj\Debug\ED.STEM.UnitTests.csproj.CopyComplete
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\obj\Debug\ED.STEM.UnitTests.dll
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\obj\Debug\ED.STEM.UnitTests.pdb
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\bin\Debug\ED.STEM.UnitTests.dll.config
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\bin\Debug\ED.STEM.Domain.dll
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\bin\Debug\ED.STEM.Domain.pdb
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\bin\Debug\ED.STEM.Domain.dll.config
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.UnitTests\bin\Debug\EntityFramework.SqlServer.xml

@@ -47,3 +47,10 @@ C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\obj\Debug\ED.STEM.WebApp.csproj.Core
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\obj\Debug\ED.STEM.WebApp.csproj.CopyComplete
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\obj\Debug\ED.STEM.WebApp.dll
 C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\obj\Debug\ED.STEM.WebApp.pdb
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\bin\ED.STEM.Domain.dll
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\bin\EntityFramework.dll
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\bin\ED.STEM.Domain.pdb
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\bin\ED.STEM.Domain.dll.config
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\bin\EntityFramework.xml
+C:\Users\ZhiHua\STEM\ED.STEM\ED.STEM.WebApp\bin\EntityFramework.SqlServer.xml
