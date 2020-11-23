@@ -18,10 +18,10 @@ namespace ED.STEM.DebugConsole
                 {
                     var programs = new STEMProgram()
                     {
-                        Name = $"Science_{i}",
+                        Name = $"Art_{i}",
                         Price = 212.34m,
                         Description = "This is a science program",
-                        Category = "Science"
+                        Category = "Art"
                     };
                     ctx.STEMPrograms.Add(programs);
                     ctx.SaveChanges();
