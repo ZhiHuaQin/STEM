@@ -10,5 +10,6 @@ namespace ED.STEM.WebApp.Models
     {
         public IEnumerable<STEMProgram> STEMPrograms { get; set; }
         public PagingInfo PagingInfo { get; set; }
+        public string CurrentCategory { get; set; }
     }
 }

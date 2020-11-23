@@ -16,12 +16,13 @@ namespace ED.STEM.WebApp.Controllers
 
         public int PageSize = 3;
 
-        public ViewResult List(int page = 1)
+        public ViewResult List(string category, int page = 1)
         {
             STEMProgramsListViewModel model = new STEMProgramsListViewModel
             {
                 STEMPrograms = ProgramsRepository
                     .STEMPrograms
+                    .Where(p => category == null || p.Category == category)
                     .OrderBy(p => p.STEMProgramId)
                     .Skip((page - 1) * PageSize)
                     .Take(PageSize),
@@ -30,8 +31,11 @@ namespace ED.STEM.WebApp.Controllers
                 {
                     CurrentPage = page,
                     ItemsPerPage = PageSize,
-                    TotalItems = ProgramsRepository.STEMPrograms.Count()
-                }
+                    TotalItems = category == null
+                        ? ProgramsRepository.STEMPrograms.Count()
+                        : ProgramsRepository.STEMPrograms.Where(e => e.Category == category).Count()
+                },
+                CurrentCategory = category
             };
             return View(model);
            
