@@ -16,7 +16,7 @@ namespace ED.STEM.WebApp
             routes.MapRoute(
                          name: null,
                          url: "Page{page}",
-                         defaults: new { controller = "Product", action = "List" }
+                         defaults: new { controller = "STEMProgram", action = "List" }
                      );
 
             routes.MapRoute(
