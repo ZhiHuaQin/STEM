@@ -54,5 +54,9 @@ namespace ED.STEM.WebApp.Controllers
                 ReturnUrl = returnUrl
             });
         }
+        public PartialViewResult Summary(Cart cart)
+        {
+            return PartialView(cart);
+        }
     }
 }
