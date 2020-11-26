@@ -14,25 +14,25 @@ namespace ED.STEM.WebApp.Controllers
     {
         public ISTEMProgramsRepository ProgramsRepository { get; set; }
           = new EFSTEMProgramRepository();
-        public RedirectToRouteResult AddToCart(int STEMProgramId, string returnUrl)
+        public RedirectToRouteResult AddToCart(Cart cart, int STEMProgramId, string returnUrl)
         {
             STEMProgram product = ProgramsRepository
             .STEMPrograms
             .FirstOrDefault(p => p.STEMProgramId == STEMProgramId);
             if (product != null)
             {
-                GetCart().AddItem(product, 1);
+                cart.AddItem(product, 1);
             }
             return RedirectToAction("Index", new { returnUrl });
         }
-        public RedirectToRouteResult RemoveFromCart(int STEMProgramId, string returnUrl)
+        public RedirectToRouteResult RemoveFromCart(Cart cart, int STEMProgramId, string returnUrl)
         {
             STEMProgram product = ProgramsRepository
            .STEMPrograms
            .FirstOrDefault(p => p.STEMProgramId == STEMProgramId);
             if (product != null)
             {
-                GetCart().RemoveLine(product);
+                cart.RemoveLine(product);
             }
             return RedirectToAction("Index", new { returnUrl });
         }
@@ -46,11 +46,11 @@ namespace ED.STEM.WebApp.Controllers
             }
             return cart;
         }
-        public ViewResult Index(string returnUrl)
+        public ViewResult Index(Cart cart, string returnUrl)
         {
             return View(new CartIndexViewModel
             {
-                Cart = GetCart(),
+                Cart = cart,
                 ReturnUrl = returnUrl
             });
         }
