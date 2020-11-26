@@ -55,6 +55,7 @@
     <Compile Include="Concrete\EFDbContext.cs" />
     <Compile Include="Concrete\EFSTEMProgramRepository.cs" />
     <Compile Include="Entities\Cart.cs" />
+    <Compile Include="Entities\ShippingDetails.cs" />
     <Compile Include="Entities\STEMProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
